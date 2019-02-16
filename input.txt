@@ -1,0 +1,219 @@
+a
+123456789
+a
+123-45-6789
+a
+123-456789
+a
+12345-6789
+a
+1234a5678
+a
+1234567-89
+a
+1234567894
+a
+167
+b
+1234567899
+b
+123456-7899
+b
+(123)4567899
+b
+(123)456-7899
+b
+(123) 456-7899
+b
+(123(4567899
+b
+1234a56789
+b
+123
+b
+123 4567-899
+c
+emailaddress@college.com
+c
+0@1.com
+c
+abc.abc@abc.org
+c
+email.email.email-address@university.college-email.edu
+c
+.-.-.-.@..com
+c
+emailaddress.com
+c
+emailaddress@.com
+c
+emailaddress@com
+c
+ @server.comm
+c
+sd..sd@ewu.edu
+d
+Matthew, Jett, Scott
+d
+Firstname, Lastname
+d
+John, Jacob, Jingleheimer, Schmidt
+d
+McDonald's, Ron-ald
+d
+-', -', -', -', -'
+d
+Matthew Jett, Scott
+d
+Matthew,Jett
+d
+Matthew
+d
+L33t, 5p34k
+e
+12-29-1985
+e
+1/26/2017
+e
+2/29/0008
+e
+1/1-1800
+e
+12-31-9999
+e
+21/31/1999
+e
+2-29-0000
+e
+2-29-1006
+e
+2-30-1004
+f
+13313 E. 4th Ave.
+f
+123 Something Ln
+f
+666 W 102nd court
+f
+123 Little John road
+f
+1 Uncreative 11th boulevard
+f
+0000 Error Lane
+f
+123 One Two Three
+f
+123 E. Street
+f
+123 E.
+g
+Spokane Valley, WA 99216
+g
+Frozen-C'ity, AK 12345
+g
+ ,  
+g
+Spokane, wa 99216
+g
+Spokane, L3 9912
+g
+Spokane Valley, wash 99216
+g
+Spokane, WA 9923
+g
+Spokane WA 99232
+g
+WA 99216
+g
+Spokane, 99210
+h
+00:00:00
+h
+23:59:59
+h
+19:00:00
+h
+09:00:00
+h
+24:59:59
+h
+00:60:00
+h
+00:00:60
+h
+-19:00:00
+i
+$1
+i
+$1000
+i
+$1,000
+i
+$1.99
+i
+$123456.78
+i
+$1,234,567.89
+i
+$0
+i
+$01,123,456
+i
+$1.
+i
+1.00
+i
+$1234,456
+i
+.
+j
+https://www.something.com
+j
+http://something.au
+j
+something.edu/
+j
+some-thing.random.com
+j
+some.thing/wicked-comes.thisway.run/
+j
+http:/something.com
+j
+something.com//
+j
+https://something--wicked.com
+j
+something
+k
+MatthewJett3!
+k
+MatthewJett999($%#
+k
+MMMMatthewJett3!
+k
+MatthewJett3
+k
+matthewjett3!
+k
+Matthew3!
+k
+MatttthewJett3!
+k
+Matthew Jett3!
+l
+ion
+l
+Axion
+l
+axeaion
+l
+Axiom
+l
+ ion
+l
+axeion
+l
+aXion
+l
+Ax3aion
+q
