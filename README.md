@@ -47,10 +47,10 @@ FAIL
 
 # About
 -----
-Author: Matthew Jett
-Class: CSCD 437 - Secure Coding with Tom Capaul
-Date: Fall 2018 (10/2018)
-Built on Visual Studio 2017 using C# and .NET Framework 4.7.2.
+Author: Matthew Jett\n
+Class: CSCD 437 - Secure Coding with Tom Capaul\n
+Date: Fall 2018 (10/2018)\n
+Built on Visual Studio 2017 using C# and .NET Framework 4.7.2.\n
 
 
 
