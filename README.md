@@ -7,15 +7,27 @@ This is a console based tester, testing 12 different patterns using regex patter
 * In command prompt/powershell type: .\AS5-REGEX [arg1]
 You can run this console app in two ways at launch:
     1) Not providing an argument; you can interact with the menu to enter a menu option and a string to test that expression, you can redirect a textfile in place of input.
-    2) Providing an argument; if you enter a "textfile.txt" formatted in the same way Tom demonstrated on the assignment notes, this will read and test the contents of the file displaying all test results just as if you were to redirect input from a file.
+    2) Providing an argument; if you enter any "textfile".txt formatted in the same way as demonstrated below, this will read and test the contents of the file systematically displaying all test results just as if you were to redirect input from a file.
     
 Make sure your file is in the root of the assignment directory (outside the "src" folder).
 
 * PASS - the input was a match
 * FAIL - the input failed to match
 
+If providing a textfile as an argument, use this format...([a-l]\n[pattern])
+```````````````````````````````````````````````
+a
+123-45-6789
+a
+123456789
+c
+tcapaul@mail.ewu.edu
+c
+thomas.capaul@mail.ewu.edu
+q
+```````````````````````````````````````````````
 
-Results will be formatted in the following way
+Results will be formatted in the following way...(each PASS/FAIL is a corresponding test labled with preceeding [a-l] character tag in the inputed tester text file.
 ```````````````````````````````````````````````
 a
 PASS
