@@ -6,7 +6,7 @@ This is a console based tester, testing 12 different patterns using regex patter
 * Executable can be found in "/bin/Debug/AS5-REGEX.exe"
 * In command prompt/powershell type: .\AS5-REGEX [arg1]
 You can run this console app in two ways at launch:
-    * 1] Not providing an argument; you can interact with the menu to enter a menu option and a string to test that expression, you can redirect a textfile in place of input.
+    1) Not providing an argument; you can interact with the menu to enter a menu option and a string to test that expression, you can redirect a textfile in place of input.
     * 2] Providing an argument; if you enter a "textfile.txt" formatted in the same way Tom demonstrated on the assignment notes, this will read and test the contents of the file displaying all test results just as if you were to redirect input from a file.
     
 Make sure your file is in the root of the assignment directory (outside the "src" folder).
