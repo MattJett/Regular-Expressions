@@ -1,4 +1,5 @@
 # Regular-Expressions
+This is a console based tester, testing 12 different patterns using regex patterns I've written. This program is featured here to show my regex solutions to matching these complex patterns.
 
 # How to run
 ----------
