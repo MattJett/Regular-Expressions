@@ -3,7 +3,7 @@ This is a console based tester, testing 12 different patterns using regex patter
 
 # How to run
 ----------
-* Executable can be found in "[assignment folder]\bin\Debug\AS5-REGEX.exe"
+* Executable can be found in "/bin/Debug/AS5-REGEX.exe"
 * In command prompt/powershell type: .\AS5-REGEX [arg1]
 You can run this console app in two ways at launch:
 1] Not providing an argument; you can interact with the menu to enter a menu option and a string to test that expression, you can redirect a textfile in place of input.
